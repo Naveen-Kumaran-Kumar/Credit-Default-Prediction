@@ -1,6 +1,5 @@
 # Credit-Default-Prediction
 
-# Credit-default-prediction
 Problem statement and Objective
 Credit default means not being able to repay the debt. An accurate prediction of default can help in balancing risk and return for the bank by charging higher rates and reducing the credit limit for risky customers. Objective of this project is to predict if a customer will default or not, based on his associated attributes.
 
